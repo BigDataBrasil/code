@@ -170,3 +170,9 @@ http://localhost:50070/
 
 stop-all.sh
 
+
+==================
+
+
+
+teste
